@@ -8,3 +8,4 @@ Engineering Blogs
 | creeperyang | https://github.com/creeperyang/blog |
 | ziyi2 | https://github.com/ziyi2/awesome |
 | ascoders | https://github.com/ascoders/weekly |
+| luoxue-victor | https://github.com/luoxue-victor/learn_book |
